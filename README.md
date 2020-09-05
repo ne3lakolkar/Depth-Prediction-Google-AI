@@ -10,4 +10,3 @@ A particularly challenging case occurs when both the camera and the objects in t
 
 ```
 Thursday, May 23, 2019
-Posted by Tali Dekel, Research Scientist and Forrester Cole, Software Engineer, Machine Perception
