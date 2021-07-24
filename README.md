@@ -10,5 +10,3 @@ A particularly challenging case occurs when both the camera and the objects in t
 
 ```
 Thursday, May 23, 2019
-snkjnkdfnjndi
-Ski
